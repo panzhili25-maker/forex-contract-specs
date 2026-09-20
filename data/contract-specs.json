@@ -1,0 +1,275 @@
+{
+  "source_note": "Pip size and contract size are market conventions, not live prices. Pip values are stated in the quote currency of the pair, before conversion into any account currency.",
+  "instruments": [
+    {
+      "instrument": "EURUSD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "USD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "GBPUSD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "USD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "USDJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "USDCHF",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CHF",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "USDCAD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CAD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "AUDUSD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "USD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "NZDUSD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "USD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "EURGBP",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "GBP",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "EURJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "EURCHF",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CHF",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "EURAUD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "AUD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "EURCAD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CAD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "EURNZD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "NZD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "GBPJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "GBPCHF",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CHF",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "GBPAUD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "AUD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "GBPCAD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CAD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "GBPNZD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "NZD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "AUDJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "AUDCHF",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CHF",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "AUDCAD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CAD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "AUDNZD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "NZD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "CADJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "CADCHF",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CHF",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "CHFJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "NZDJPY",
+      "pip_size": 0.01,
+      "contract_size": 100000.0,
+      "quote_currency": "JPY",
+      "pip_value_standard_lot": 1000.0,
+      "pip_value_mini_lot": 100.0,
+      "pip_value_micro_lot": 10.0
+    },
+    {
+      "instrument": "NZDCHF",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CHF",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "NZDCAD",
+      "pip_size": 0.0001,
+      "contract_size": 100000.0,
+      "quote_currency": "CAD",
+      "pip_value_standard_lot": 10.0,
+      "pip_value_mini_lot": 1.0,
+      "pip_value_micro_lot": 0.1
+    },
+    {
+      "instrument": "XAUUSD",
+      "pip_size": 0.01,
+      "contract_size": 100.0,
+      "quote_currency": "USD",
+      "pip_value_standard_lot": 1.0,
+      "pip_value_mini_lot": 0.1,
+      "pip_value_micro_lot": 0.01
+    },
+    {
+      "instrument": "XAGUSD",
+      "pip_size": 0.01,
+      "contract_size": 5000.0,
+      "quote_currency": "USD",
+      "pip_value_standard_lot": 50.0,
+      "pip_value_mini_lot": 5.0,
+      "pip_value_micro_lot": 0.5
+    }
+  ]
+}
